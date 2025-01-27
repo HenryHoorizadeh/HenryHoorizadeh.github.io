@@ -66,15 +66,14 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://henryhoorizadeh.github.io/"
     - label: "LinkedIn"
-     icon: "fa-brands fa-linkedin"
-     url: "https://www.linkedin.com/in/henry-hoorizadeh-a540a4238/"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/henry-hoorizadeh-a540a4238/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/HenryHoorizadeh"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/henryhoorizadeh/"
-
 footer:
   links:
     - label: "Twitter"
