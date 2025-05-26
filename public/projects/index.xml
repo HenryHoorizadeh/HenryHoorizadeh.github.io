@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Henrys Site</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Henrys Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jet Engine</title>
+      <link>http://localhost:1313/projects/jet-engine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/jet-engine/</guid>
+      <description>&#xA;3D-Printed 90% of the parts used in the finished product. The only parts that were not printed were the acrylic tube, the ball bearings, and the carbon fiber center axle.&#xA;Tech used Carbon fiber Rods for better weight over steel Blades printed in Carbon Fiber Nylon to have the best tempurature resistance Assembled in an acrylic tube with drilled inlet holes </description>
+    </item>
+    <item>
+      <title>Telescope</title>
+      <link>http://localhost:1313/projects/telescope/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/telescope/</guid>
+      <description> Using a large telescope I was able to take picurtes of deep sky objects such as the Orinon Nebula, Mars, Jupiter, and Saturn.&#xA;Tech used Used an apsc sony a6700 to capture the images 3D-printed an adapter for the the telescope used an 8inch dobsonian telescope for the images </description>
+    </item>
+  </channel>
+</rss>
