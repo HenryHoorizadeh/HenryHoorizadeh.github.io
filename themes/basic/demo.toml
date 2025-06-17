@@ -1,6 +1,8 @@
+//just meant to show you stuff you can do in a toml
+
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My New Hugo Siteuheotansuheotaunsao'
 
 [[menus.main]]
 name = 'Home'

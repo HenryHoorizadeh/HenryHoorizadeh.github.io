@@ -1,5 +1,14 @@
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width">
+<meta name="author" content="{{ .Site.Params.author }}">
+
+ <meta name="description" content="
+    {{- with .Page.Description -}}
+        {{ . }}
+    {{- else -}}
+    {{ .Site.Params.description }}
+    {{- end -}}"
+ >
+
 <title>
     {{ if .IsHome }}
         {{ .Site.Title}}
@@ -10,4 +19,5 @@
 
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/js.html" . }}
+{{ template "_internal/google_analytics_async.html" . }}
 

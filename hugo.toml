@@ -1,4 +1,16 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Henrys Site'
+title = 'Henrys Sites'
 theme = 'basic'
+googleAnalytics = "UA-xxxxxxxxxxxx"
+
+[params]
+author = 'Henry'
+description = 'A website' 
+gh_url = "https://api.github.com/users"
+gh_user = "henryhoorizadeh"
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
