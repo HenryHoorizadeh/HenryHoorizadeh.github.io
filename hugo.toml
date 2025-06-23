@@ -14,3 +14,7 @@ gh_user = "henryhoorizadeh"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+
+[build]
+  min_version = "0.147.2"
